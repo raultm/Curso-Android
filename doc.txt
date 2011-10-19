@@ -36,3 +36,30 @@ Módulo 4. Interfaces de usuario
 1.1 Introducción a la plataforma Android
 	Links
 	http://es.wikipedia.org/wiki/Android
+
+1.2 Modelo de negocio
+	Aplicaciones de pago
+	Aplicaciones gratuitas con publicidad
+	Aplicaciones Freemium (Una gratuita y otra de pago con más características)
+	Aplicaciones a medida. 
+	In-App purchase
+
+1.3 La tienda de Android: Android Market
+	https://market.android.com/?hl=es
+	http://en.wikipedia.org/wiki/Android_Market
+	
+1.4 Tipos de apps: gratuitas, de pago, con publicidad
+	1.2 Modelo de negocio
+1.5 Estadísticas de descargas y ventas
+	
+	Seguramente lo hayais escuchado muchas veces y si no es así os lo comento yo, el mundo de los smartphones va muy rápido. Para que os hagáis un idea os voy a mostrar una comparativa entre móviles que se desarrollo hace alrededor de un año de Gartner(empresa independiente). En ella hay previsiones hasta 2014.
+	http://www.gartner.com/it/page.jsp?id=1434613
+	
+	Como podéis ver la implantación de los smartphones es amplia en el mundo
+	Fijarse en las unidades totales de Symbian/Android
+	
+	Son realmente alucinantes.
+	
+	Pues bien, ahora os quiero enseñar como de rápido va este mundo. Unas previsiones del mismo estilo de la misma compañía. Fijaros en como pueden variar los número en apenas7 u 8 meses.
+
+1.6 Ejemplo práctico: nuestra primera app
