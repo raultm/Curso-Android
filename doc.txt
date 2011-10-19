@@ -32,6 +32,30 @@ Módulo 4. Interfaces de usuario
     4.7 TabHost
     4.8 Interacción con la aplicación
 
+0.1 ¿Quién soy?
+	Raul Tierno
+	Desarrollador en Kinética Mobile
+	Programador de Java(Android) y PHP
+	Entusiasta del desarrollo de software amén de otras muchas más cosas.
+	
+0.2 ¿Quienes sois vosotros?
+	Dinámica de presentación -  De pie y en corro hablar sobre cada uno de nosotros. 
+	Nombre - Trabajo - Razón para hacer el curso
+	
+0.3 Objetivos marcados por mí.
+	Que aprendáis a instalar todo lo necesario para el desarrollo así como familiarizarse con las herramientas.
+	Que perdáis el miedo que pudierais tener a la hora de desarrollar aplicaciones para Android. Es muy fácil! :)
+	Android está en Java pero necesita su propio lenguaje. Hay muchos lenguajes latinos pero ninguno es igual entre ellos. Italiano, Portugués, Español.
+	Un lenguaje no se llega a dominar nunca, pero unas primeras palabras pueden ayudar a entenderse.
+	Mi objetivo, guiaros en esos primeros pasos, cada uno evolucionará de un modo distinto, no preocuparse.
+
+0.4 Primera clase
+	Os voy realizar una introducción al mundo de los smartphones en general, así como Android en particular. Que modelos de negocio existen actualmente. Android Market, Amazon Market. Os mostraré algunos números para que sepáis como andan las cifras.
+	
+	Sé que todos o casi todos sois trabajadores así que no os aburriré mandado ejercicios para casa, eso si si alguien le apetece después podrá enseñarnos sus cosas antes de empezar la clase del día siguiente al resto de compañeros.
+	
+	Al final de la clase veremos una aplicación básica, analizaremos la aplicación sin intentar explicar nada de código. Cuando ya entendamos las generalidades de Android instalaremos las herramientas necesarios e intentaremos crear nuestra primera aplicación.
+	
 
 1.1 Introducción a la plataforma Android
 	Links
@@ -62,4 +86,67 @@ Módulo 4. Interfaces de usuario
 	
 	Pues bien, ahora os quiero enseñar como de rápido va este mundo. Unas previsiones del mismo estilo de la misma compañía. Fijaros en como pueden variar los número en apenas7 u 8 meses.
 
+
 1.6 Ejemplo práctico: nuestra primera app
+
+	Bien, os voy a enseñar una aplicación que realicé hace poco para una introducción en Android, vamos a intentar ver el mínimo código posible. Analizando primeramente la aplicación visualmente para después ir desgranando sus funcionalidad poco a poco. El próximo día la intención es que vengáis con alguna de este estilo básica cada uno y podáis llevarla a cabo durante la clase.
+	
+	[Hola Mirador de Montepinar]
+	
+	
+Módulo 2. Herramientas
+
+2.1 Requisitos previos
+	
+	Sistemas Operativos
+		Windows, MacOs, Linux
+	IDE (Eclipse)
+		La documentación oficial de Google hace siempre uso de Eclipse(Open Source) de hecho lo recomiendan, puede usarse de cualquier manera cualquier otro IDE, pero las implantaciones en esos IDE corre de vuestra cuenta o de manuales que encontréis por internet. Me he visto en la situación de instalar todo el paquete en los 3 OS y en ninguno de ellos he tenido ningún problema al seguir el manual.
+		http://developer.android.com/sdk/index.html
+				
+	Lenguaje de programación 
+		Java
+	
+	http://developer.android.com/sdk/requirements.html
+	
+	Detalle de idiomas (Inglés y Chino)
+
+2.2 Equipamiento: hardware y software
+
+	http://developer.android.com/sdk/requirements.html
+	
+2.3 Preparación del entorno
+
+	http://developer.android.com/sdk/installing.html
+
+2.4 Descargando componentes
+	
+	http://developer.android.com/sdk/installing.html
+	
+2.5 Configuración del entorno Eclipse
+
+	http://developer.android.com/sdk/installing.html
+
+2.6 Hola mundo[Personalizado]
+
+	Bueno como comentábamos el otro día, vamos a montar la idea que tenéis de casa, lo que vamos a ir haciendo es 
+
+
+Módulo 3. Fundamentos de desarrollo en Android
+
+    3.1 Conceptos básicos
+    3.2 Entorno de programación para Android
+    
+Módulo 4. Interfaces de usuario
+
+    4.1 Generalidades
+    4.2 LinearLayout
+    4.3 TableLayout
+    4.4 RelativeLayout
+    4.5 AbsoluteLayout
+    4.6 ListView
+    4.7 TabHost
+    4.8 Interacción con la aplicación
+
+http://www.howtogeek.com/howto/42491/how-to-remote-view-and-control-your-android-phone/
+
