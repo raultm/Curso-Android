@@ -52,7 +52,7 @@ Módulo 4. Interfaces de usuario
 0.4 Primera clase
 	Os voy realizar una introducción al mundo de los smartphones en general, así como Android en particular. Que modelos de negocio existen actualmente. Android Market, Amazon Market. Os mostraré algunos números para que sepáis como andan las cifras.
 	
-	Sé que todos o casi todos sois trabajadores así que no os aburriré mandado ejercicios para casa, eso si si alguien le apetece después podrá enseñarnos sus cosas antes de empezar la clase del día siguiente al resto de compañeros.
+	Sé que todos o casi todos sois trabajadores así que no os aburriré mandando ejercicios para casa, eso si si alguien le apetece después podrá enseñarnos sus cosas antes de empezar la clase del día siguiente al resto de compañeros.
 	
 	Al final de la clase veremos una aplicación básica, analizaremos la aplicación sin intentar explicar nada de código. Cuando ya entendamos las generalidades de Android instalaremos las herramientas necesarios e intentaremos crear nuestra primera aplicación.
 	
@@ -140,12 +140,21 @@ Módulo 3. Fundamentos de desarrollo en Android
 Módulo 4. Interfaces de usuario
 
     4.1 Generalidades
+    	http://developer.android.com/resources/tutorials/views/index.html
     4.2 LinearLayout
+    	http://developer.android.com/resources/tutorials/views/hello-linearlayout.html
     4.3 TableLayout
+    	http://developer.android.com/resources/tutorials/views/hello-tablelayout.html
     4.4 RelativeLayout
+    	http://developer.android.com/resources/tutorials/views/hello-relativelayout.html
     4.5 AbsoluteLayout
+    	http://developer.android.com/reference/android/widget/AbsoluteLayout.html
     4.6 ListView
+    	http://developer.android.com/resources/tutorials/views/hello-listview.html
     4.7 TabHost
+    	http://developer.android.com/resources/tutorials/views/hello-tabwidget.html
+    4.7 GridView
+    	http://developer.android.com/resources/tutorials/views/hello-gridview.html
     4.8 Interacción con la aplicación
 
 http://www.howtogeek.com/howto/42491/how-to-remote-view-and-control-your-android-phone/
