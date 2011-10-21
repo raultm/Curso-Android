@@ -15,8 +15,12 @@ Primera clase
 	Mundo de los smartphones, Android en particular
 	Modelos de negocio & Android Market
 	Demo de App
+	Preparar Eclipse
 	
 Mundo de los Smartphones
+	(Graficas de Gartner, previsiones)
+	
+Lucha de Marcas
 	Symbian, iOs, Android, Windows Phone
 	Nokia se une con Windows
 	Apple ataca a Samsung
@@ -25,4 +29,24 @@ Mundo de los Smartphones
 Android
 	Breve reseña histórica
 	
+Modelos de negocio
+	Aplicaciones de pago
+	Aplicaciones gratis
+	Aplicaciones freemium
+	Aplicaciones para terceros	
+	In-App purchases
+	
+Android Market
+	(Link android.market.com)
+	Mostrar guía Hervás
 
+Demo de App
+	Hola Mirador de Montepinar
+	Analizar visualmente la aplicación
+	
+Eclipse
+	Puesta a punto.
+	Alternativas (NetBeans)
+
+Eclipse & SDK - Requisitos previos
+	

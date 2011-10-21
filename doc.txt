@@ -99,7 +99,7 @@ Módulo 2. Herramientas
 2.1 Requisitos previos
 	
 	Sistemas Operativos
-		Windows, MacOs, Linux
+		Windows, MacOS, Linux
 	IDE (Eclipse)
 		La documentación oficial de Google hace siempre uso de Eclipse(Open Source) de hecho lo recomiendan, puede usarse de cualquier manera cualquier otro IDE, pero las implantaciones en esos IDE corre de vuestra cuenta o de manuales que encontréis por internet. Me he visto en la situación de instalar todo el paquete en los 3 OS y en ninguno de ellos he tenido ningún problema al seguir el manual.
 		http://developer.android.com/sdk/index.html
