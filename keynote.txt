@@ -54,13 +54,32 @@ Eclipse & SDK - Requisitos previos
 	Cualquiera de los 3 principales OS 
 		Ubuntu, MacOS, Windows
 	Lenguajes
-		Java(Pricipalmente), C(NDK, para acceder al core del sistema)
+		Java(Pricipalmente), C/C++(NDK, en casos muy especiales)
 	http://developer.android.com/sdk/requirements.html
 
 Eclipse & SDK - Preparar entorno
 	Se tarda un ratito, pero siguiendo instrucciones todo funciona bien.
 	http://developer.android.com/sdk/installing.html 
 	
+UI mediante XML
+	¿Qué es XML?
+	<documento>
+		<creacion>
+			<autor name="Raúl" lastname="Tierno" />
+			<date year="2011" month="11">11/2011<date>
+		</creacion>
+		<contenido code="UTF8">
+			Hola holita vecinito
+		</contenido>
+	</documento>	
+	
+Conceptos básicos
+	Clase Activity
+	Clase View
+	Función onClick
+	
+		
+
 Vuestra Primera App
 	Step By Step
 	Explicar "Activity"

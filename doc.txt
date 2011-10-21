@@ -54,7 +54,15 @@ Módulo 4. Interfaces de usuario
 	
 	Sé que todos o casi todos sois trabajadores así que no os aburriré mandando ejercicios para casa, eso si si alguien le apetece después podrá enseñarnos sus cosas antes de empezar la clase del día siguiente al resto de compañeros.
 	
-	Al final de la clase veremos una aplicación básica, analizaremos la aplicación sin intentar explicar nada de código. Cuando ya entendamos las generalidades de Android instalaremos las herramientas necesarios e intentaremos crear nuestra primera aplicación.
+	Seguidamente veremos una aplicación básica, analizaremos la aplicación sin intentar explicar nada de código. Cuando ya entendamos las generalidades de Android instalaremos las herramientas necesarios e intentaremos crear nuestra primera aplicación. En la primera aplicación os guiaré paso a paso. en la siguiente clases veremos algunas especificaciones como por ejemplo los diferentes esquemas/layouts para pintar en las pantallas.
+	
+	En 12 horas no se puede desarrollar una gran aplicación con Base de Datos, Geolocalización, conexión con sockets, lectura de XML a través de Java. Pero confío en que al final del curso os entre el gusanillo para seguir trabajando por esta rama de desarrollo.
+			
+	Creo que la mayoría venís para aprender a hacer vuestra primera aplicación, por lo que intentaré daros brevemente  esta introducción al mundo de los smartphones y ponernos cuanto antes a avanzar paso a paso en el desarrollo.
+	
+	En vez de explicaros todos los aspectos de programación necesario para luego programar una aplicación, lo que vamos a hacer es embarrarnos desde un primer momento. Os iré dando las pistas para seguir avanzando, es probable que mientras estáis trabajando os asalten dudas, en cualquier momento consultáis la duda y la comentamos al resto de compañeros. 
+	
+	
 	
 
 1.1 Introducción a la plataforma Android
@@ -136,6 +144,9 @@ Módulo 2. Herramientas
 		
 		Al pintar una Actividad el elemento raíz debe ser un elemento de Layout.
 		Dentro de este elemento se van añadiendo Views u otros Layouts
+	View
+		Esta clase representa un bloque básico para usar en la interfaz de usuario. Todo lo que pintemos  en la interfaz de usuario será una View
+	
 		
 	Explicar View
 	
