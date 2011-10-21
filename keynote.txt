@@ -1,0 +1,28 @@
+Android
+
+¿Quien soy?
+	Desarrollador en Kinética
+	Twitter
+	Linkedin
+	
+¿Quienes sois?
+	Nombre
+	Trabajo
+	Razones para hacer el curso
+	Expectativas apartado Android
+	
+Primera clase
+	Mundo de los smartphones, Android en particular
+	Modelos de negocio & Android Market
+	Demo de App
+	
+Mundo de los Smartphones
+	Symbian, iOs, Android, Windows Phone
+	Nokia se une con Windows
+	Apple ataca a Samsung
+	Google compra Motorola
+	
+Android
+	Breve reseña histórica
+	
+
