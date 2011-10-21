@@ -15,13 +15,14 @@ Primera clase
 	Mundo de los smartphones, Android en particular
 	Modelos de negocio & Android Market
 	Demo de App
+	[Receso]
 	Preparar Eclipse
 	
 Mundo de los Smartphones
 	(Graficas de Gartner, previsiones)
 	
 Lucha de Marcas
-	Symbian, iOs, Android, Windows Phone
+	Symbian, iOS, Android, Windows Phone
 	Nokia se une con Windows
 	Apple ataca a Samsung
 	Google compra Motorola
@@ -44,9 +45,26 @@ Demo de App
 	Hola Mirador de Montepinar
 	Analizar visualmente la aplicación
 	
-Eclipse
-	Puesta a punto.
-	Alternativas (NetBeans)
+Android Entorno de programación
+	Android SDK
+	Eclipse - Otras posibilidades NetBeans
+	Java/Eclipse - JDK (Java Development Kit)
 
 Eclipse & SDK - Requisitos previos
+	Cualquiera de los 3 principales OS 
+		Ubuntu, MacOS, Windows
+	Lenguajes
+		Java(Pricipalmente), C(NDK, para acceder al core del sistema)
+	http://developer.android.com/sdk/requirements.html
+
+Eclipse & SDK - Preparar entorno
+	Se tarda un ratito, pero siguiendo instrucciones todo funciona bien.
+	http://developer.android.com/sdk/installing.html 
 	
+Vuestra Primera App
+	Step By Step
+	Explicar "Activity"
+	Añadir texto
+	Añadir imagen
+	Añadir botón
+	Añadir funcionalidad a botón

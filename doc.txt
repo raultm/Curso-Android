@@ -131,6 +131,18 @@ Módulo 2. Herramientas
 
 	Bueno como comentábamos el otro día, vamos a montar la idea que tenéis de casa, lo que vamos a ir haciendo es 
 
+	Explicar Activity
+		Una Actividad en Android es un componente de aplicación que provee una pantalla donde el usuario puede interactuar para la realización de una tarea, como pudiera ser marcar un teléfono, realizar una foto, mandar un email i ver un mapa. Cada Actividad ofrece una venta donde se puede pintar la interfaz de usuario. Esta ventana usualmente rellena la pantalla, pero puede ser mas pequeña que la pantalla y flotar sobre otras ventanas.
+		
+		Al pintar una Actividad el elemento raíz debe ser un elemento de Layout.
+		Dentro de este elemento se van añadiendo Views u otros Layouts
+		
+	Explicar View
+	
+	Añadir texto
+	Añadir imagen
+	Añadir botón
+	Añadir funcionalidad a botón
 
 Módulo 3. Fundamentos de desarrollo en Android
 
