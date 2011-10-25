@@ -1,3 +1,5 @@
+---------------- Breve introducción al mundo Android
+
 Android
 
 ¿Quien soy?
@@ -11,15 +13,13 @@ Android
 	Razones para hacer el curso
 	Expectativas apartado Android
 	
-Primera clase
+Primera parte
 	Mundo de los smartphones, Android en particular
 	Modelos de negocio & Android Market
 	Demo de App
-	[Receso]
-	Preparar Eclipse
 	
 Mundo de los Smartphones
-	(Graficas de Gartner, previsiones)
+	(Gráficas de Gartner, previsiones)
 	
 Lucha de Marcas
 	Symbian, iOS, Android, Windows Phone
@@ -31,59 +31,100 @@ Android
 	Breve reseña histórica
 	
 Modelos de negocio
-	Aplicaciones de pago
 	Aplicaciones gratis
 	Aplicaciones freemium
-	Aplicaciones para terceros	
+	Aplicaciones de pago
 	In-App purchases
+	B2B(Business to Business)
+	Aplicaciones para terceros	
 	
 Android Market
 	(Link android.market.com)
 	Mostrar guía Hervás
 
+Android Developer
+	Antes de vender alguna aplicación de todas formas hay que desarrollarla
+
+Android Developer
+	(Link developer.android.com)
+	La referencia oficial muy bien para empezar como para dudas concretas sobre qué hace una función pero no sobre los problemas.
+	Referencias
+		Hello, Android
+		Stackoverflow(Se está convirtiendo en página de referencia de desarroladores para resolver dudas, problemas)
+		
 Demo de App
 	Hola Mirador de Montepinar
 	Analizar visualmente la aplicación
+	[]
+	Le falta una mano de chapa y pintura pero os hacéis una idea.
+	[]
+	Ahora, sin ver nada de la parte interna ¿cuanto creéis que vais a tardar en programar algo así al final del curso?
+	
+	
+	
+----------------------------
 	
 Android Entorno de programación
 	Android SDK
-	Eclipse - Otras posibilidades NetBeans
+	Eclipse - Otras posibilidades NetBeans, no recomiendo.
 	Java/Eclipse - JDK (Java Development Kit)
 
 Eclipse & SDK - Requisitos previos
 	Cualquiera de los 3 principales OS 
 		Ubuntu, MacOS, Windows
 	Lenguajes
-		Java(Pricipalmente), C/C++(NDK, en casos muy especiales)
+		Java(Principalmente), C/C++(NDK, en casos muy especiales)
 	http://developer.android.com/sdk/requirements.html
 
 Eclipse & SDK - Preparar entorno
 	Se tarda un ratito, pero siguiendo instrucciones todo funciona bien.
 	http://developer.android.com/sdk/installing.html 
-	
+
+Programación / Lógica del programa
+	Intentar separar ambas capas. Buena práctica.
+	Usar XML para desarrollar la UI(User Interface)	
+
 UI mediante XML
 	¿Qué es XML?
-	<documento>
-		<creacion>
-			<autor name="Raúl" lastname="Tierno" />
+	<document>
+		<create>
+			<author name="Raúl" lastname="Tierno" />
 			<date year="2011" month="11">11/2011<date>
-		</creacion>
-		<contenido code="UTF8">
+		</create>
+		<content code="UTF8">
 			Hola holita vecinito
-		</contenido>
-	</documento>	
+		</content>
+	</document>	
 	
-Conceptos básicos
+Conceptos Básicos
 	Clase Activity
 	Clase View
+		TextView
+		ImageView
+		Button
+		EditText
 	Función onClick
-	
-		
+
+Conceptos Básicos - Activity
+[Imagen de pantalla]
+
+Conceptos Básicos - TextView
+[Imagen]
+
+Conceptos Básicos - EditText
+[Imagen]
+
+Conceptos Básicos - Button
+[Imagen]
+
+Folder Structure
+	src - Source/Código de la aplicación
+	gen - Archivos que se generan automáticamente
+	assets - 
+	res - Recursos(Imágenes, Cadenas, etc)
 
 Vuestra Primera App
-	Step By Step
-	Explicar "Activity"
-	Añadir texto
-	Añadir imagen
-	Añadir botón
-	Añadir funcionalidad a botón
+	+Texto
+	+Imagen
+	+Botón
+	+onClick

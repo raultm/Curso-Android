@@ -52,7 +52,7 @@ Módulo 4. Interfaces de usuario
 0.4 Primera clase
 	Os voy realizar una introducción al mundo de los smartphones en general, así como Android en particular. Que modelos de negocio existen actualmente. Android Market, Amazon Market. Os mostraré algunos números para que sepáis como andan las cifras.
 	
-	Sé que todos o casi todos sois trabajadores así que no os aburriré mandando ejercicios para casa, eso si si alguien le apetece después podrá enseñarnos sus cosas antes de empezar la clase del día siguiente al resto de compañeros.
+	Sé que todos o casi todos sois trabajadores así que no os aburriré mandando ejercicios para casa, eso si, si alguien le apetece hacer cosas en casa después podrá enseñarnoslas antes de empezar la clase del día siguiente al resto de compañeros.
 	
 	Seguidamente veremos una aplicación básica, analizaremos la aplicación sin intentar explicar nada de código. Cuando ya entendamos las generalidades de Android instalaremos las herramientas necesarios e intentaremos crear nuestra primera aplicación. En la primera aplicación os guiaré paso a paso. en la siguiente clases veremos algunas especificaciones como por ejemplo los diferentes esquemas/layouts para pintar en las pantallas.
 	
@@ -84,7 +84,7 @@ Módulo 4. Interfaces de usuario
 	1.2 Modelo de negocio
 1.5 Estadísticas de descargas y ventas
 	
-	Seguramente lo hayais escuchado muchas veces y si no es así os lo comento yo, el mundo de los smartphones va muy rápido. Para que os hagáis un idea os voy a mostrar una comparativa entre móviles que se desarrollo hace alrededor de un año de Gartner(empresa independiente). En ella hay previsiones hasta 2014.
+	Seguramente lo hayáis escuchado muchas veces y si no es así os lo comento yo, el mundo de los smartphones va muy rápido. Para que os hagáis un idea os voy a mostrar una comparativa entre móviles que se desarrollo hace alrededor de un año de Gartner(empresa independiente). En ella hay previsiones hasta 2014.
 	http://www.gartner.com/it/page.jsp?id=1434613
 	
 	Como podéis ver la implantación de los smartphones es amplia en el mundo
@@ -146,10 +146,10 @@ Módulo 2. Herramientas
 		Dentro de este elemento se van añadiendo Views u otros Layouts
 	View
 		Esta clase representa un bloque básico para usar en la interfaz de usuario. Todo lo que pintemos  en la interfaz de usuario será una View
-	
+		TextView
+		ImageView
+		Button
 		
-	Explicar View
-	
 	Añadir texto
 	Añadir imagen
 	Añadir botón
